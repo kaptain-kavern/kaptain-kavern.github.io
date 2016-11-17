@@ -30,6 +30,7 @@ theme: minima
 highlighter: rouge
 gems:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
