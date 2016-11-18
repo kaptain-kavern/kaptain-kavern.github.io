@@ -11,6 +11,8 @@ categories: jekyll plugin devnotes
 - More information on the Jekyll plugin architecture is available from the [Jekyll wiki](https://github.com/mojombo/jekyll/wiki/Plugins).
 - [How To Contribute to a Jekyll Blog on Github](http://opendesign.foundation/articles/how-to-contribute/) *As an example of something I will have to write at some point.* - Some more [links](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 
+___
+
 ### A list of plugins I will need to check
 - [Jekyll Markdown references plugin](https://github.com/olov/jekyll-references)
 - [Jekyll Lazy Tweet Embedding Plugin](https://github.com/takuti/jekyll-lazy-tweet-embedding)
@@ -29,10 +31,8 @@ categories: jekyll plugin devnotes
 - [jekyll-tagging-related_posts](https://github.com/toshimaru/jekyll-tagging-related_posts#jekyll-tagging-related_posts) - *Jekyll `related_posts` function based on tags (works on Jekyll3). It replaces original Jekyll's `related_posts` function to use tags to calculate relationships.*
 - [jekyll-tagging](https://github.com/pattex/jekyll-tagging)-[`[GEMFILE]`](https://rubygems.org/gems/jekyll-tagging) - *Jekyll plugin to automatically generate a tag cloud and tag pages.* - [Altertive](http://www.justkez.com/generating-a-tag-cloud-in-jekyll/)
 - [jekyll-breadcrumbs](https://github.com/git-no/jekyll-breadcrumbs) - *Smart and fast breadcrumbs for posts, pages and collections with SEO support*
-- []() - **
-- []() - **
-- []() - **
-- []() - **
+
+___
 
 ### Clearly for later
 - [Jekyll Menus](https://github.com/forestryio/jekyll-menus) - *Complex, and infinite menus for Jekyll.*
@@ -41,5 +41,12 @@ categories: jekyll plugin devnotes
 - [Travis-CI](https://travis-ci.org/)
 - [jekyll-localization](https://github.com/flatterline/jekyll-plugins#company-portfolio) - *Jekyll plugin that adds localization features to the rendering engine.*
 
+___
+___
+
 ## #Design
+
+### Resources
 - [List of sites using Jekyll](https://github.com/jekyll/jekyll/wiki/Sites)
+
+___
