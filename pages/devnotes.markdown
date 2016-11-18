@@ -2,6 +2,7 @@
 layout:     page
 title:      "[DevNotes]"
 categories: jekyll plugin devnotes
+permalink: /devnotes
 ---
 ## #Server setup
 
