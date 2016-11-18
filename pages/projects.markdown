@@ -3,7 +3,7 @@ layout:     page
 title:      "Projects"
 categories: Projects
 ---
-## Community
+## Community projects
 
 ### Rimworld's Modders United (**[RiMµ]**) Community Website -
 >*A community made, managed and driven website talking about modding Rimworld - ??? The DaiRiMµ \| The Daily RiMµ ???*
@@ -20,7 +20,7 @@ I can see it at as good way to unite the community even a bit more (_never enoug
  
 **The thing is I intend it to be open to any redactor AND it will be _really easy_ to propose/add posts (directly from Github website and starting to write plain text)** \| *I will also need collaborator(**s**) because i'm more a coder guy than a public/writer one*
 
-## Code - Dev
+## Code - Dev Projects
 
 ### Mod/Project Presentation Page template
 >*A Webpage, directly build from; and which will be hosted in an already existing mod/project's github repo*
