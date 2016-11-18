@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      "[DevNotes]"
+title:      "Site [DevNotes]"
 categories: jekyll plugin devnotes
 permalink: /devnotes
 ---
