@@ -35,3 +35,5 @@ ___
 
 ### >>Mod Presentation Page template
 >*A Webpage, directly build from; and which will be hosted in an already existing mod/project's github repo*
+
+[This](https://kaptain-kavern.github.io/AsSimpleAsRack/) is what Github pages can create automatically (the text and picture are pulled out  directly from the `readme.md` file). So this project will be basically to create a "Rimworld Mod" specific **Jekyll**/**Github Pages** template
