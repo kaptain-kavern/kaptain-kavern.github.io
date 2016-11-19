@@ -17,8 +17,8 @@ title: My modding projects
 email: kap7ain.kav3rn|@|gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My personnal blog : build as a practise to learn Jekyll, I will mostly talking about Rimworld, Modding and related projects
-baseurl: /blog # the subpath of your site, e.g. /blog
-url: https://kaptain-kavern.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://kaptain-kavern.github.io'/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kaptain_kavern
 github_username:  kaptain-kavern
 
