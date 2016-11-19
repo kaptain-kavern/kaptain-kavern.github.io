@@ -2,6 +2,7 @@
 layout:     page
 title:      "[Mods Idea]"
 categories: Projects Mods TO-DO
+permalink: /mods_ideas/
 ---
 ## Mods ideas list
 
