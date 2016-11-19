@@ -2,7 +2,6 @@
 layout:     page
 title:      "[Projects]"
 categories: Projects
-permalink: /projects
 ---
 ## Community projects
 
