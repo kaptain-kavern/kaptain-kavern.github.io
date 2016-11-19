@@ -16,8 +16,7 @@ permalink: /devnotes
 - [UniFreak]() --- *[`demo`](https://unifreak.github.io/)Blogging singular theme -[`recent fork`](https://github.com/monsterdogfly/monsterdogfly.github.io)*
 - [{ Personal }](https://github.com/PanosSakkos/personal-jekyll-theme) --- *[`demo`](https://panossakkos.github.io/personal-jekyll-theme)Responsive, contain a timeline*
 - [Slate](https://github.com/jasoncostello/slate) --- *[`demo`](http://jasoncostello.github.io/slate)*
-- [Feeling Responsive](https://github.com/Phlow/feeling-responsive) --- *[`demo`](http://phlow.github.io/feeling-responsive/)*
-- []() --- *[`demo`]()*
+- []() --- **
 
 #### Documentation Theme
 - [Docster](http://themes.jekyllrc.org/docster/) --- *[`demo`](http://digitalmind.ch/themes/docster-jekyll-theme/demo/)*
@@ -30,9 +29,7 @@ permalink: /devnotes
 - [Handbook Theme](https://github.com/okfn/handbook-theme) --- *[`demo`](http://opendatahandbook.org/) -*
 - [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme) --- *[`demo`](https://jeromelachaud.github.io/freelancer-theme/)Projects Showcase*
 - [Arcana](https://github.com/CloudCannon/Arcana-Jekyll-Theme) --- *[`demo`](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/index.html)business/corporate style responsive site template*
-- [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) --- *[`demo`](https://mmistakes.github.io/minimal-mistakes/)A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server*
-- []() --- *[`demo`]()*
-- 
+- []() --- **
 
 #### Portfolio Theme
 - [GridGallery](http://themes.jekyllrc.org/gridgallery/) --- *photo blogging theme - [`demo`](http://themes.jekyllrc.org/thumbnails/gridgallery.jpg)*
@@ -50,12 +47,7 @@ ___
 - More information on the Jekyll plugin architecture is available from the [Jekyll wiki](https://github.com/mojombo/jekyll/wiki/Plugins).
 - [How To Contribute to a Jekyll Blog on Github](http://opendesign.foundation/articles/how-to-contribute/) *As an example of something I will have to write at some point.* - Some more [links](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 
-### Admin Panel/Gestion
-- [Prose.io]() *online text editor made for Jekyll/GHPages*
-- [Forestry](https://forestry.io) *A CMS for Jekyll and Hugo sites*
-
 ___
-
 
 ### A list of plugins I will need to check
 - [Jekyll Markdown references plugin](https://github.com/olov/jekyll-references)
@@ -95,9 +87,4 @@ ___
 - [purplecoat.js](https://ellekasai.github.io/purplecoat.js/) - *labeled overlays that can be triggered with a click*
 - [Formspree](https://formspree.io/) --- *Functional HTML forms -
 Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites!*
-- Comment system :
-    + Disqus
-    + [GH issue tracker](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
-    + discourse (example : http://joebuhlig.com/behind-the-scenes/)
-    + https://www.hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/
 ___
