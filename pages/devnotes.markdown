@@ -6,7 +6,42 @@ permalink: /devnotes
 ---
 ## #Server setup
 
-# ##Plugins
+# ##Jekyll Themes
+
+### A list of themes I will need to check
+- [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno) --- *[`demo`](http://joshgerdes.com/jekyll-uno/)a minimal, responsive theme for Jekyll based on Uno for Ghost*
+- [Architect theme](https://github.com/pietromenna/jekyll-architect-theme) --- *[`demo`](http://pietro.menna.net.br/jekyll-architect-theme/)Open Source version of the GitHub Pages theme*
+- [brume](https://github.com/aigarsdz/brume) --- *[`demo`](http://aigarsdz.github.io/brume) - a clean and simple theme, which has an index page that lists all your blog posts divided by year and an about page*
+- [OpenTheme](https://github.com/manavsehgal/opentheme) --- *Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.*
+- [UniFreak]() --- *[`demo`](https://unifreak.github.io/)Blogging singular theme -[`recent fork`](https://github.com/monsterdogfly/monsterdogfly.github.io)*
+- [{ Personal }](https://github.com/PanosSakkos/personal-jekyll-theme) --- *[`demo`](https://panossakkos.github.io/personal-jekyll-theme)Responsive, contain a timeline*
+- [Slate](https://github.com/jasoncostello/slate) --- *[`demo`](http://jasoncostello.github.io/slate)*
+- []() --- **
+
+#### Documentation Theme
+- [Docster](http://themes.jekyllrc.org/docster/) --- *[`demo`](http://digitalmind.ch/themes/docster-jekyll-theme/demo/)*
+
+
+
+#### Front End Theme
+- [front-cover](http://themes.jekyllrc.org/front-cover/) --- *landing page- [`demo`](https://dashingcode.github.io/front-cover/)*
+- [SinglePaged](https://github.com/t413/SinglePaged) --- *[`demo`](http://t413.com/SinglePaged)a polished, modular, and beautiful single page site*
+- [Handbook Theme](https://github.com/okfn/handbook-theme) --- *[`demo`](http://opendatahandbook.org/) -*
+- [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme) --- *[`demo`](https://jeromelachaud.github.io/freelancer-theme/)Projects Showcase*
+- [Arcana](https://github.com/CloudCannon/Arcana-Jekyll-Theme) --- *[`demo`](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/index.html)business/corporate style responsive site template*
+- []() --- **
+
+#### Portfolio Theme
+- [GridGallery](http://themes.jekyllrc.org/gridgallery/) --- *photo blogging theme - [`demo`](http://themes.jekyllrc.org/thumbnails/gridgallery.jpg)*
+- [Jekyll Masonry Theme](https://github.com/pasindud/jekyll-masonry) --- *[`demo`](http://pasindud.github.io/)nice design using masonry griding*
+- [Gridster](https://github.com/DigitalMindCH/gridster-jekyll-theme) --- *[`demo`](http://digitalmind.ch/themes/gridster-jekyll-theme/demo/)Multimedia portfolio in material design*
+- [Jekyll Video](https://github.com/mushishi78/jekyll-video) --- *[`demo`](http://mushishi78.github.io/jekyll-video/)Video Showcase blog template*
+- []() --- *[]()*
+- []() --- *[]()*
+
+___
+
+# ##Jekyll Plugins
 
 ### Resources
 - More information on the Jekyll plugin architecture is available from the [Jekyll wiki](https://github.com/mojombo/jekyll/wiki/Plugins).
@@ -49,5 +84,7 @@ ___
 
 ### Resources
 - [List of sites using Jekyll](https://github.com/jekyll/jekyll/wiki/Sites)
-
+- [purplecoat.js](https://ellekasai.github.io/purplecoat.js/) - *labeled overlays that can be triggered with a click*
+- [Formspree](https://formspree.io/) --- *Functional HTML forms -
+Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites!*
 ___
