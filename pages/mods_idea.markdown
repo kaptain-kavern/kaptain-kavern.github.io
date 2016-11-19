@@ -2,8 +2,6 @@
 layout:     page
 title:      "[Mods Idea]"
 categories: Projects Mods TO-DO
-tags: VideoGame Rimworld Mod TO-DO
-permalink: /modding_idea
 ---
 ## Mods ideas list
 
