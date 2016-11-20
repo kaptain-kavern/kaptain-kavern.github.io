@@ -51,7 +51,7 @@ ___
 - [How To Contribute to a Jekyll Blog on Github](http://opendesign.foundation/articles/how-to-contribute/) *As an example of something I will have to write at some point.* - Some more [links](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 
 ### Admin Panel/Gestion
-- [Prose.io]() *online text editor made for Jekyll/GHPages*
+- [Prose.io]() *[`Prose Configuration`](https://github.com/prose/prose/wiki/Prose-Configuration)online text editor made for Jekyll/GHPages*
 - [Forestry](https://forestry.io) *A CMS for Jekyll and Hugo sites*
 
 ___

@@ -20,7 +20,7 @@ I can see it at as good way to unite the community even a bit more  by
 
 - And, *if there is a public/demand for that*, it can even become a **"real"** website talking about the modding news (modders interview ,associated twitter account that ping at mod release, mods review, what else). 
  
-**The thing is I intend it to be open to any redactors. For that I want it to be _really easy_ to propose/add posts (directly from Github website and starting to write plain text)**
+**The thing is I intend it to be open to any redactors. For that I want it to be _really easy_ to propose/add posts (directly from Github website and starting to write plain text OR using external tools like [Prose.io](http://prose.io/) or [Forestry.io](http://forestry.io))**
 
 > #### Proof of concept exemple :
 > - [Here](https://github.com/kaptain-kavern/kaptain-kavern.github.io/blob/master/pages/projects.markdown) is the "source code" for this page rendered in Github interface (**directly editable**)
