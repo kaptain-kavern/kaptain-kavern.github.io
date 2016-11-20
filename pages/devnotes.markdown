@@ -6,56 +6,13 @@ permalink: /devnotes/
 ---
 ## #Server setup
 
-# ##Jekyll Themes
-
-### A list of themes I will need to check
-- [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno) --- *[`demo`](http://joshgerdes.com/jekyll-uno/)a minimal, responsive theme for Jekyll based on Uno for Ghost*
-- [Architect theme](https://github.com/pietromenna/jekyll-architect-theme) --- *[`demo`](http://pietro.menna.net.br/jekyll-architect-theme/)Open Source version of the GitHub Pages theme*
-- [brume](https://github.com/aigarsdz/brume) --- *[`demo`](http://aigarsdz.github.io/brume) - a clean and simple theme, which has an index page that lists all your blog posts divided by year and an about page*
-- [OpenTheme](https://github.com/manavsehgal/opentheme) --- *Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.*
-- [UniFreak]() --- *[`demo`](https://unifreak.github.io/)Blogging singular theme -[`recent fork`](https://github.com/monsterdogfly/monsterdogfly.github.io)*
-- [{ Personal }](https://github.com/PanosSakkos/personal-jekyll-theme) --- *[`demo`](https://panossakkos.github.io/personal-jekyll-theme)Responsive, contain a timeline*
-- [Slate](https://github.com/jasoncostello/slate) --- *[`demo`](http://jasoncostello.github.io/slate)*
-- [Feeling Responsive](https://github.com/Phlow/feeling-responsive) --- *[`demo`](http://phlow.github.io/feeling-responsive/)*
-- []() --- *[`demo`]()*
-
-#### Documentation Theme
-- [Docster](http://themes.jekyllrc.org/docster/) --- *[`demo`](http://digitalmind.ch/themes/docster-jekyll-theme/demo/)*
-
-
-
-#### Front End Theme
-- [front-cover](http://themes.jekyllrc.org/front-cover/) --- *landing page- [`demo`](https://dashingcode.github.io/front-cover/)*
-- [SinglePaged](https://github.com/t413/SinglePaged) --- *[`demo`](http://t413.com/SinglePaged)a polished, modular, and beautiful single page site*
-- [Handbook Theme](https://github.com/okfn/handbook-theme) --- *[`demo`](http://opendatahandbook.org/) -*
-- [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme) --- *[`demo`](https://jeromelachaud.github.io/freelancer-theme/)Projects Showcase*
-- [Arcana](https://github.com/CloudCannon/Arcana-Jekyll-Theme) --- *[`demo`](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/index.html)business/corporate style responsive site template*
-- [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) --- *[`demo`](https://mmistakes.github.io/minimal-mistakes/)A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server*
-- []() --- *[`demo`]()*
-- 
-
-#### Portfolio Theme
-- [GridGallery](http://themes.jekyllrc.org/gridgallery/) --- *photo blogging theme - [`demo`](http://themes.jekyllrc.org/thumbnails/gridgallery.jpg)*
-- [Jekyll Masonry Theme](https://github.com/pasindud/jekyll-masonry) --- *[`demo`](http://pasindud.github.io/)nice design using masonry griding*
-- [Gridster](https://github.com/DigitalMindCH/gridster-jekyll-theme) --- *[`demo`](http://digitalmind.ch/themes/gridster-jekyll-theme/demo/)Multimedia portfolio in material design*
-- [Jekyll Video](https://github.com/mushishi78/jekyll-video) --- *[`demo`](http://mushishi78.github.io/jekyll-video/)Video Showcase blog template*
-- []() --- *[]()*
-- []() --- *[]()*
-
-___
-
 # ##Jekyll Plugins
-
-### Resources
-- More information on the Jekyll plugin architecture is available from the [Jekyll wiki](https://github.com/mojombo/jekyll/wiki/Plugins).
-- [How To Contribute to a Jekyll Blog on Github](http://opendesign.foundation/articles/how-to-contribute/) *As an example of something I will have to write at some point.* - Some more [links](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 
 ### Admin Panel/Gestion
 - [Prose.io]() *[`Prose Configuration`](https://github.com/prose/prose/wiki/Prose-Configuration)online text editor made for Jekyll/GHPages*
 - [Forestry](https://forestry.io) *A CMS for Jekyll and Hugo sites*
 
 ___
-
 
 ### A list of plugins I will need to check
 - [Jekyll Markdown references plugin](https://github.com/olov/jekyll-references)
@@ -76,8 +33,6 @@ ___
 - [jekyll-tagging](https://github.com/pattex/jekyll-tagging)-[`[GEMFILE]`](https://rubygems.org/gems/jekyll-tagging) - *Jekyll plugin to automatically generate a tag cloud and tag pages.* - [Altertive](http://www.justkez.com/generating-a-tag-cloud-in-jekyll/)
 - [jekyll-breadcrumbs](https://github.com/git-no/jekyll-breadcrumbs) - *Smart and fast breadcrumbs for posts, pages and collections with SEO support*
 
-___
-
 ### Clearly for later
 - [Jekyll Menus](https://github.com/forestryio/jekyll-menus) - *Complex, and infinite menus for Jekyll.*
 - [becoming a jekyll god](https://medium.com/design-open/becoming-a-jekyll-god-ef722e93f771) - *Page loading time optimisation* - and a [follow up](https://jdsteinbach.com/performance/99-100-google-page-speed/)
@@ -86,18 +41,72 @@ ___
 - [jekyll-localization](https://github.com/flatterline/jekyll-plugins#company-portfolio) - *Jekyll plugin that adds localization features to the rendering engine.*
 
 ___
+
+### Resources
+- More information on the Jekyll plugin architecture is available from the [Jekyll wiki](https://github.com/mojombo/jekyll/wiki/Plugins).
+
+___
+___
 ___
 
 ## #Design
+
+# ##Jekyll Themes
+
+### A list of themes I will need to check
+- [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno) --- *[`demo`](http://joshgerdes.com/jekyll-uno/)a minimal, responsive theme for Jekyll based on Uno for Ghost*
+- [Architect theme](https://github.com/pietromenna/jekyll-architect-theme) --- *[`demo`](http://pietro.menna.net.br/jekyll-architect-theme/)Open Source version of the GitHub Pages theme*
+- [brume](https://github.com/aigarsdz/brume) --- *[`demo`](http://aigarsdz.github.io/brume) - a clean and simple theme, which has an index page that lists all your blog posts divided by year and an about page*
+- [OpenTheme](https://github.com/manavsehgal/opentheme) --- *Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.*
+- [UniFreak]() --- *[`demo`](https://unifreak.github.io/)Blogging singular theme -[`recent fork`](https://github.com/monsterdogfly/monsterdogfly.github.io)*
+- [{ Personal }](https://github.com/PanosSakkos/personal-jekyll-theme) --- *[`demo`](https://panossakkos.github.io/personal-jekyll-theme)Responsive, contain a timeline*
+- [Slate](https://github.com/jasoncostello/slate) --- *[`demo`](http://jasoncostello.github.io/slate)*
+- [Feeling Responsive](https://github.com/Phlow/feeling-responsive) --- *[`demo`](http://phlow.github.io/feeling-responsive/)*
+- [Starving Artist Jekyll Theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme) --- *[`demo`](https://chrisanthropic.github.io/starving-artist-jekyll-theme/)Starving Artist is a simple portfolio theme for visual artists to easily share their work.*
+- [Slim Pickins](https://github.com/chrisanthropic/slim-pickins-jekyll-theme) --- *[`demo`](http://chrisanthropic.github.io/slim-pickins-jekyll-theme/)"minimal '__core__' theme with everything needed to quickly develop new themes"*
+- []() --- *[`demo`]()*
+
+#### Documentation Theme
+- [Docster](http://themes.jekyllrc.org/docster/) --- *[`demo`](http://digitalmind.ch/themes/docster-jekyll-theme/demo/)*
+- [Lanyon](https://github.com/poole/lanyon#readme) --- *[`demo`](http://lanyon.getpoole.com/)Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer.*
+
+#### Front End Theme
+- [front-cover](http://themes.jekyllrc.org/front-cover/) --- *landing page- [`demo`](https://dashingcode.github.io/front-cover/)*
+- [SinglePaged](https://github.com/t413/SinglePaged) --- *[`demo`](http://t413.com/SinglePaged)a polished, modular, and beautiful single page site*
+- [Handbook Theme](https://github.com/okfn/handbook-theme) --- *[`demo`](http://opendatahandbook.org/) -*
+- [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme) --- *[`demo`](https://jeromelachaud.github.io/freelancer-theme/)Projects Showcase*
+- [Arcana](https://github.com/CloudCannon/Arcana-Jekyll-Theme) --- *[`demo`](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/index.html)business/corporate style responsive site template*
+- [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) --- *[`demo`](https://mmistakes.github.io/minimal-mistakes/)A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server*
+- []() --- *[`demo`]()*
+
+#### Portfolio Theme
+- [GridGallery](http://themes.jekyllrc.org/gridgallery/) --- *photo blogging theme - [`demo`](http://themes.jekyllrc.org/thumbnails/gridgallery.jpg)*
+- [Jekyll Masonry Theme](https://github.com/pasindud/jekyll-masonry) --- *[`demo`](http://pasindud.github.io/)nice design using masonry griding*
+- [Gridster](https://github.com/DigitalMindCH/gridster-jekyll-theme) --- *[`demo`](http://digitalmind.ch/themes/gridster-jekyll-theme/demo/)Multimedia portfolio in material design*
+- [Jekyll Video](https://github.com/mushishi78/jekyll-video) --- *[`demo`](http://mushishi78.github.io/jekyll-video/)Video Showcase blog template*
+- [comical jekyll theme](https://github.com/chrisanthropic/comical-jekyll-theme) --- *[`demo`](http://chrisanthropic.github.io/comical-jekyll-theme/)A Configurable Webcomic Theme for Jekyll*
+- []() --- *[`demo`]()*
+
+___
 
 ### Resources
 - [List of sites using Jekyll](https://github.com/jekyll/jekyll/wiki/Sites)
 - [purplecoat.js](https://ellekasai.github.io/purplecoat.js/) - *labeled overlays that can be triggered with a click*
 - [Formspree](https://formspree.io/) --- *Functional HTML forms -
 Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites!*
-- Comment system :
+- Commenting system :
     + Disqus
+    + [Muut](https://muut.com)
     + [GH issue tracker](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
-    + discourse (example : http://joebuhlig.com/behind-the-scenes/)
-    + https://www.hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/
+    + discourse - [example](http://joebuhlig.com/behind-the-scenes/)
+    + [adding a static comments system to my jekyll](https://www.hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/)
+- [Creating Gem Based Themes For Jekyll](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
+
+___
+___
+___
+
+## #Content/Edito/article
+- [How To Contribute to a Jekyll Blog on Github](http://opendesign.foundation/articles/how-to-contribute/) *As an example of something I will have to write at some point.* - Some more [links](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+
 ___

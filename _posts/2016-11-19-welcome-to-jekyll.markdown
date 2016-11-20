@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  "Welcome to my Mod blog!"
 date:   2016-11-19 20:54:58 +0100
 categories: jekyll update
 ---
