@@ -44,6 +44,15 @@ ___
 
 ### Resources
 - More information on the Jekyll plugin architecture is available from the [Jekyll wiki](https://github.com/mojombo/jekyll/wiki/Plugins).
+- [Formspree](https://formspree.io/) --- *Functional HTML forms -
+Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites!*
+- Commenting system :
+    + Disqus
+    + [Muut](https://muut.com)
+    + [GH issue tracker](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
+    + discourse - [example](http://joebuhlig.com/behind-the-scenes/)
+    + [adding a static comments system to my jekyll](https://www.hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/)
+- [ZeroClipboard](http://zeroclipboard.org/) --- *The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.*
 
 ___
 ___
@@ -92,14 +101,6 @@ ___
 ### Resources
 - [List of sites using Jekyll](https://github.com/jekyll/jekyll/wiki/Sites)
 - [purplecoat.js](https://ellekasai.github.io/purplecoat.js/) - *labeled overlays that can be triggered with a click*
-- [Formspree](https://formspree.io/) --- *Functional HTML forms -
-Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites!*
-- Commenting system :
-    + Disqus
-    + [Muut](https://muut.com)
-    + [GH issue tracker](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
-    + discourse - [example](http://joebuhlig.com/behind-the-scenes/)
-    + [adding a static comments system to my jekyll](https://www.hawksworx.com/blog/adding-a-static-comments-system-to-my-jekyll-build/)
 - [Creating Gem Based Themes For Jekyll](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
 
 ___
