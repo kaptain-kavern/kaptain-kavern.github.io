@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/kaptain_kavern
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaptain-kavern.github.io
+  * I am kaptain_kavern (https://keybase.io/kaptain_kavern) on keybase.
+  * I have a public key ASB24hfwJJ4vkFGEMRlyl6VR0RLmcnpmpHFr1BRmwy_nswo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017f7001f1fb6813a379b3024f286345b2b2b3e802118738a0c
+70748964fab0f0b0a",
+            "host": "keybase.io",
+            "kid": "012076e217f0249e2f90518431197297a551d112e6727a66a4716bd41466
+c32fe7b30a",
+            "uid": "1e86363c8bee1ce5ea07bc3b0acf3f19",
+            "username": "kaptain_kavern"
+        },
+        "service": {
+            "hostname": "kaptain-kavern.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1480089000,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1480088975,
+        "hash": "5ef4d8fc46ad76812ece5697d6c4d9133031b3783b17c77a4847f8e25155f24
+edc3cfec3aa4f52548d59fc47c8cf662ba8a4cf7d80d18dba5a9c50c1e5716b26",
+        "seqno": 734812
+    },
+    "prev": "2fa2eb421d563e60aac5000a3ecc2903dfd2d0d84356b0f854e6565fb71bba07",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgduIX8CSeL5BRhDEZcpelUdES5nJ6ZqRx
+a9QUZsMv57MKp3BheWxvYWTFAwd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxN2Y3MDAx
+ZjFmYjY4MTNhMzc5YjMwMjRmMjg2MzQ1YjJiMmIzZTgwMjExODczOGEwYzcwNzQ4OTY0ZmFiMGYwYjBh
+IiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzZlMjE3ZjAyNDllMmY5MDUxODQzMTE5NzI5
+N2E1NTFkMTEyZTY3MjdhNjZhNDcxNmJkNDE0NjZjMzJmZTdiMzBhIiwidWlkIjoiMWU4NjM2M2M4YmVl
+MWNlNWVhMDdiYzNiMGFjZjNmMTkiLCJ1c2VybmFtZSI6ImthcHRhaW5fa2F2ZXJuIn0sInNlcnZpY2Ui
+OnsiaG9zdG5hbWUiOiJrYXB0YWluLWthdmVybi5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9
+LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6
+ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4MDA4OTAw
+MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDgwMDg4OTc1LCJo
+YXNoIjoiNWVmNGQ4ZmM0NmFkNzY4MTJlY2U1Njk3ZDZjNGQ5MTMzMDMxYjM3ODNiMTdjNzdhNDg0N2Y4
+ZTI1MTU1ZjI0ZWRjM2NmZWMzYWE0ZjUyNTQ4ZDU5ZmM0N2M4Y2Y2NjJiYThhNGNmN2Q4MGQxOGRiYTVh
+OWM1MGMxZTU3MTZiMjYiLCJzZXFubyI6NzM0ODEyfSwicHJldiI6IjJmYTJlYjQyMWQ1NjNlNjBhYWM1
+MDAwYTNlY2MyOTAzZGZkMmQwZDg0MzU2YjBmODU0ZTY1NjVmYjcxYmJhMDciLCJzZXFubyI6MTAsInRh
+ZyI6InNpZ25hdHVyZSJ9o3NpZ8RA5Uu85CwAYOZ/UH5q4k2K4STXti7jl6lxf77MbP5DxlWqJZQ2G8GU
++wtm1Z/LkY0T8klpGZsXkRid18uLqbUuBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHGqQWP8
+C09IafyIMlDjYqZ92tYfqNx5TKFA4tmW2ZJfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaptain_kavern
+
+==================================================================
