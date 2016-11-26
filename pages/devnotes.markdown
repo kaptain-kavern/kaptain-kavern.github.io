@@ -44,6 +44,7 @@ ___
 
 ### Resources
 - More information on the Jekyll plugin architecture is available from the [Jekyll wiki](https://github.com/mojombo/jekyll/wiki/Plugins).
+- [Free Books about Jekyll](https://hydepress.github.io/)
 - [Formspree](https://formspree.io/) --- *Functional HTML forms -
 Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required — perfect for static sites!*
 - Commenting system :
@@ -73,7 +74,10 @@ ___
 - [Feeling Responsive](https://github.com/Phlow/feeling-responsive) --- *[`demo`](http://phlow.github.io/feeling-responsive/)*
 - [Starving Artist Jekyll Theme](https://github.com/chrisanthropic/starving-artist-jekyll-theme) --- *[`demo`](https://chrisanthropic.github.io/starving-artist-jekyll-theme/)Starving Artist is a simple portfolio theme for visual artists to easily share their work.*
 - [Slim Pickins](https://github.com/chrisanthropic/slim-pickins-jekyll-theme) --- *[`demo`](http://chrisanthropic.github.io/slim-pickins-jekyll-theme/)"minimal '__core__' theme with everything needed to quickly develop new themes"*
-- []() --- *[`demo`]()*
+- [Jekyll hack.css](https://github.com/wemake-services/jekyll-theme-hackcss) --- *[`demo`](http://wemake.services/jekyll-theme-hackcss/)dead simple css framework.*
+- [Yummy](https://github.com/DONGChuan/Yummy-Jekyll) --- *[`demo`](https://dongchuan.github.io/)A Simple, Bootstrap Based Theme. - with some nice modules*
+- [Documentation theme for Jekyll](https://github.com/tomjohnson1492/documentation-theme-jekyll) --- *[`demo`](http://idratherbewriting.com/documentation-theme-jekyll/)*
+<!-- - []() --- *[`demo`]()* -->
 
 #### Documentation Theme
 - [Docster](http://themes.jekyllrc.org/docster/) --- *[`demo`](http://digitalmind.ch/themes/docster-jekyll-theme/demo/)*
@@ -86,7 +90,8 @@ ___
 - [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme) --- *[`demo`](https://jeromelachaud.github.io/freelancer-theme/)Projects Showcase*
 - [Arcana](https://github.com/CloudCannon/Arcana-Jekyll-Theme) --- *[`demo`](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/index.html)business/corporate style responsive site template*
 - [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) --- *[`demo`](https://mmistakes.github.io/minimal-mistakes/)A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server*
-- []() --- *[`demo`]()*
+- [Millennial](https://github.com/henriqueeliass/fundamental.github.io) --- *[`demo`](http://millennial.com.br/)*
+<!-- - []() --- *[`demo`]()* -->
 
 #### Portfolio Theme
 - [GridGallery](http://themes.jekyllrc.org/gridgallery/) --- *photo blogging theme - [`demo`](http://themes.jekyllrc.org/thumbnails/gridgallery.jpg)*
@@ -94,7 +99,9 @@ ___
 - [Gridster](https://github.com/DigitalMindCH/gridster-jekyll-theme) --- *[`demo`](http://digitalmind.ch/themes/gridster-jekyll-theme/demo/)Multimedia portfolio in material design*
 - [Jekyll Video](https://github.com/mushishi78/jekyll-video) --- *[`demo`](http://mushishi78.github.io/jekyll-video/)Video Showcase blog template*
 - [comical jekyll theme](https://github.com/chrisanthropic/comical-jekyll-theme) --- *[`demo`](http://chrisanthropic.github.io/comical-jekyll-theme/)A Configurable Webcomic Theme for Jekyll*
-- []() --- *[`demo`]()*
+- [Trophy](https://github.com/thomasvaeth/trophy-jekyll) --- *[`demo`](http://thomasvaeth.com/trophy-jekyll/)*
+- [Photorama](https://github.com/sunbliss/photorama) --- *[`demo`](http://photorgasms.cu.cc/photorama/)*
+<!-- - []() --- *[`demo`]()* -->
 
 ___
 
