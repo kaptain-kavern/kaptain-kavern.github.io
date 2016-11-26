@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      "Site [DevNotes]"
-categories: jekyll plugin devnotes
+categories: jekyll devnotes
 permalink: /devnotes/
 ---
 ## #Server setup
@@ -77,7 +77,10 @@ ___
 - [Jekyll hack.css](https://github.com/wemake-services/jekyll-theme-hackcss) --- *[`demo`](http://wemake.services/jekyll-theme-hackcss/)dead simple css framework.*
 - [Yummy](https://github.com/DONGChuan/Yummy-Jekyll) --- *[`demo`](https://dongchuan.github.io/)A Simple, Bootstrap Based Theme. - with some nice modules*
 - [Documentation theme for Jekyll](https://github.com/tomjohnson1492/documentation-theme-jekyll) --- *[`demo`](http://idratherbewriting.com/documentation-theme-jekyll/)*
-<!-- - []() --- *[`demo`]()* -->
+- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) --- *[`demo`](https://mmistakes.github.io/skinny-bones-jekyll/)*
+- []() --- *[`demo`]()*
+- []() --- *[`demo`]()*
+
 
 #### Documentation Theme
 - [Docster](http://themes.jekyllrc.org/docster/) --- *[`demo`](http://digitalmind.ch/themes/docster-jekyll-theme/demo/)*
@@ -91,6 +94,7 @@ ___
 - [Arcana](https://github.com/CloudCannon/Arcana-Jekyll-Theme) --- *[`demo`](https://jekyll-demos.github.io/Arcana-Jekyll-Theme/index.html)business/corporate style responsive site template*
 - [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes) --- *[`demo`](https://mmistakes.github.io/minimal-mistakes/)A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server*
 - [Millennial](https://github.com/henriqueeliass/fundamental.github.io) --- *[`demo`](http://millennial.com.br/)*
+- [Solid](https://github.com/st4ple/solid-jekyll) --- *[`demo`](http://ojs.xyz/solid-jekyll/)Eyecatching Bootstrap 3 Theme.*
 <!-- - []() --- *[`demo`]()* -->
 
 #### Portfolio Theme
@@ -102,6 +106,13 @@ ___
 - [Trophy](https://github.com/thomasvaeth/trophy-jekyll) --- *[`demo`](http://thomasvaeth.com/trophy-jekyll/)*
 - [Photorama](https://github.com/sunbliss/photorama) --- *[`demo`](http://photorgasms.cu.cc/photorama/)*
 <!-- - []() --- *[`demo`]()* -->
+
+#### Themes with interresting features
+<!-- - []() --- *[`demo`]()* -->
+- [The code folio](https://github.com/tokkonopapa/jekyll-experiment) --- *[`demo`](http://tokkonopapa.bitbucket.org/)All the right side bar*
+- [Stylish Portfolio](https://github.com/volny/stylish-portfolio-jekyll) --- *[`demo`](https://volny.github.io/stylish-portfolio-jekyll/)I very much like the [Gmaps footer](https://github.com/volny/stylish-portfolio-jekyll/blob/master/_includes/map.html)*
+- [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) --- *[`demo`](https://mmistakes.github.io/hpstr-jekyll-theme/)I like the the [pop-up menu](https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/navigation.html)*
+-  [Jalpc](https://github.com/Jack614/jalpc_jekyll_theme) --- *[`demo`](http://www.jack003.com/)I very much like all the cool image-loading effect and timing*
 
 ___
 
