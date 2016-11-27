@@ -120,6 +120,8 @@ ___
 - [List of sites using Jekyll](https://github.com/jekyll/jekyll/wiki/Sites)
 - [purplecoat.js](https://ellekasai.github.io/purplecoat.js/) - *labeled overlays that can be triggered with a click*
 - [Creating Gem Based Themes For Jekyll](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
+- [Favicon Generator](https://realfavicongenerator.net/)
+- [TinyPNG.com](https://tinypng.com/)*Smart PNG and JPEG compression*
 
 ___
 ___
