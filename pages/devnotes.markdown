@@ -122,6 +122,12 @@ ___
 - [Creating Gem Based Themes For Jekyll](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
 - [Favicon Generator](https://realfavicongenerator.net/)
 - [TinyPNG.com](https://tinypng.com/)*Smart PNG and JPEG compression*
+- *Lorem Ipsum* generator I use : 
+ - [`Samuel L Jackson`](http://slipsum.com/)
+ - [`Filleratti`](http://www.fillerati.com/)
+ - [`Space Ipsum`](http://spaceipsum.com/)
+ - [`Delorean Ipsum`](http://www.deloreanipsum.com/)
+ - [`Heisenberg Ipsum`](http://heisenbergipsum.com/)
 
 ___
 ___
