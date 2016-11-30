@@ -128,6 +128,7 @@ ___
   - [`Space Ipsum`](http://spaceipsum.com/)
   - [`Delorean Ipsum`](http://www.deloreanipsum.com/)
   - [`Heisenberg Ipsum`](http://heisenbergipsum.com/)
+- [Isotope](http://isotope.metafizzy.co/) --- *Filter & sort magical layouts*
 
 ___
 ___
