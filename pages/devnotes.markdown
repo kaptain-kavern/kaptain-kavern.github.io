@@ -108,7 +108,6 @@ ___
 <!-- - []() --- *[`demo`]()* -->
 
 #### Themes with interresting features
-<!-- - []() --- *[`demo`]()* -->
 - [The code folio](https://github.com/tokkonopapa/jekyll-experiment) --- *[`demo`](http://tokkonopapa.bitbucket.org/)All the right side bar*
 - [Stylish Portfolio](https://github.com/volny/stylish-portfolio-jekyll) --- *[`demo`](https://volny.github.io/stylish-portfolio-jekyll/)I very much like the [Gmaps footer](https://github.com/volny/stylish-portfolio-jekyll/blob/master/_includes/map.html)*
 - [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) --- *[`demo`](https://mmistakes.github.io/hpstr-jekyll-theme/)I like the the [pop-up menu](https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/navigation.html)*
